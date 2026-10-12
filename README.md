@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <a href="mailto:phpedrinh64@gmail.com">
+    <a href="mailto:pedrobarbosa8988@gmail">
       <img src="https://img.shields.io/badge/Email-phpedrinh64%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://github.com/pedrohenrqe">
