@@ -7,7 +7,7 @@
 
   <p align="center">
     <a href="mailto:pedrobarbosa8988@gmail">
-      <img src="https://img.shields.io/badge/Email-phpedrinh64%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-pedrobarbosa8988@gmail%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://github.com/pedrohenrqe">
       <img src="https://img.shields.io/badge/GitHub-pedrohenrqe-181717?style=for-the-badge&logo=github&logoColor=white" />
