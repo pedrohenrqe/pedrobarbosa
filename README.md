@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Pedro%20Barbosa&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Backend%20Developer&descFontSize=20&descAlignY=63&fontColor=ffffff" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Desenvolvedor+Backend+%7C+Java+%26+Spring+Boot;APIs+Resilientes%2C+Go+(Golang)+e+Node.js;Engenharia+de+Software%2C+Testes+e+IA+Local" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Desenvolvedor+Backend+%7C+Java+%26+Spring+Boot" alt="Typing SVG" />
   </a>
 
   <p align="center">
